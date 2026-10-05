@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/0043-multiply-strings) |
+| [0856-score-of-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0856-score-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
