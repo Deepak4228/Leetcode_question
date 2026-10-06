@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/0043-multiply-strings) |
+| [2396-strictly-palindromic-number](https://github.com/Deepak4228/Leetcode_question/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Deepak4228/Leetcode_question/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Deepak4228/Leetcode_question/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
