@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/0043-multiply-strings) |
 | [0856-score-of-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak4228/Leetcode_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -46,4 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak4228/Leetcode_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Array
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
+## Hash Table
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
