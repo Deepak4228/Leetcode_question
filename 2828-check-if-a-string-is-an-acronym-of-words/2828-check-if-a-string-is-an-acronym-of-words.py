@@ -8,7 +8,7 @@ class Solution(object):
         if len(words)!=len(s):
             return False
         else:
-            index=0
+            
             for i in range(len(words)):
                 if words[i][0]!=s[i]:
                     return False
