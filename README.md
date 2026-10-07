@@ -59,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Deepak4228/Leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepak4228/Leetcode_question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3668-restore-finishing-order](https://github.com/Deepak4228/Leetcode_question/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak4228/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3668-restore-finishing-order](https://github.com/Deepak4228/Leetcode_question/tree/master/3668-restore-finishing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
