@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak4228/Leetcode_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak4228/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepak4228/Leetcode_question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak4228/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
 | ------- |
