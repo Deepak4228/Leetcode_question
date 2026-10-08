@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/Deepak4228/Leetcode_question/tree/master/0125-valid-palindrome) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Deepak4228/Leetcode_question/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Deepak4228/Leetcode_question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0856-score-of-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0856-score-of-parentheses) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Deepak4228/Leetcode_question/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Deepak4228/Leetcode_question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Deepak4228/Leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepak4228/Leetcode_question/tree/master/2149-rearrange-array-elements-by-sign) |
