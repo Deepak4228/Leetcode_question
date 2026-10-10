@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Deepak4228/Leetcode_question/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak4228/Leetcode_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/Deepak4228/Leetcode_question/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak4228/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Deepak4228/Leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepak4228/Leetcode_question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Deepak4228/Leetcode_question/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/Deepak4228/Leetcode_question/tree/master/0877-stone-game) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/Deepak4228/Leetcode_question/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Deepak4228/Leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepak4228/Leetcode_question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepak4228/Leetcode_question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
