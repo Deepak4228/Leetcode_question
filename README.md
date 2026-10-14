@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0575-distribute-candies](https://github.com/Deepak4228/Leetcode_question/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/Deepak4228/Leetcode_question/tree/master/0877-stone-game) |
+| [1672-richest-customer-wealth](https://github.com/Deepak4228/Leetcode_question/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Deepak4228/Leetcode_question/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Deepak4228/Leetcode_question/tree/master/1929-concatenation-of-array) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Deepak4228/Leetcode_question/tree/master/0877-stone-game) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Deepak4228/Leetcode_question/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
