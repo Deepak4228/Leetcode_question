@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Deepak4228/Leetcode_question/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Deepak4228/Leetcode_question/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Deepak4228/Leetcode_question/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Deepak4228/Leetcode_question/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepak4228/Leetcode_question/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Deepak4228/Leetcode_question/tree/master/3945-digit-frequency-score) |
 ## String
