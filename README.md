@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Deepak4228/Leetcode_question/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Deepak4228/Leetcode_question/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepak4228/Leetcode_question/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/Deepak4228/Leetcode_question/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/Deepak4228/Leetcode_question/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -34,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Deepak4228/Leetcode_question/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepak4228/Leetcode_question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Deepak4228/Leetcode_question/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3894-traffic-signal-color](https://github.com/Deepak4228/Leetcode_question/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/Deepak4228/Leetcode_question/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepak4228/Leetcode_question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3894-traffic-signal-color](https://github.com/Deepak4228/Leetcode_question/tree/master/3894-traffic-signal-color) |
 ## Database
 |  |
 | ------- |
