@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/0043-multiply-strings) |
+| [0867-transpose-matrix](https://github.com/Deepak4228/Leetcode_question/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Deepak4228/Leetcode_question/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepak4228/Leetcode_question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3894-traffic-signal-color](https://github.com/Deepak4228/Leetcode_question/tree/master/3894-traffic-signal-color) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/Deepak4228/Leetcode_question/tree/master/0575-distribute-candies) |
+| [0867-transpose-matrix](https://github.com/Deepak4228/Leetcode_question/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Deepak4228/Leetcode_question/tree/master/0877-stone-game) |
 | [1002-find-common-characters](https://github.com/Deepak4228/Leetcode_question/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/Deepak4228/Leetcode_question/tree/master/1051-height-checker) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Deepak4228/Leetcode_question/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Deepak4228/Leetcode_question/tree/master/1672-richest-customer-wealth) |
 ## Impartial Game
 |  |
