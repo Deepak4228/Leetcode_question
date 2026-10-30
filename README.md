@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepak4228/Leetcode_question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepak4228/Leetcode_question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3668-restore-finishing-order](https://github.com/Deepak4228/Leetcode_question/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Deepak4228/Leetcode_question/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepak4228/Leetcode_question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak4228/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepak4228/Leetcode_question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Deepak4228/Leetcode_question/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Deepak4228/Leetcode_question/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Deepak4228/Leetcode_question/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Deepak4228/Leetcode_question/tree/master/1051-height-checker) |
+| [3731-find-missing-elements](https://github.com/Deepak4228/Leetcode_question/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
