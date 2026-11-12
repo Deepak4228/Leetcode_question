@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepak4228/Leetcode_question/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepak4228/Leetcode_question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0575-distribute-candies](https://github.com/Deepak4228/Leetcode_question/tree/master/0575-distribute-candies) |
 | [0867-transpose-matrix](https://github.com/Deepak4228/Leetcode_question/tree/master/0867-transpose-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepak4228/Leetcode_question/tree/master/0001-two-sum) |
 | [0575-distribute-candies](https://github.com/Deepak4228/Leetcode_question/tree/master/0575-distribute-candies) |
 | [1002-find-common-characters](https://github.com/Deepak4228/Leetcode_question/tree/master/1002-find-common-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Deepak4228/Leetcode_question/tree/master/1684-count-the-number-of-consistent-strings) |
