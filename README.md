@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Deepak4228/Leetcode_question/tree/master/0575-distribute-candies) |
 | [0867-transpose-matrix](https://github.com/Deepak4228/Leetcode_question/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Deepak4228/Leetcode_question/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Deepak4228/Leetcode_question/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/Deepak4228/Leetcode_question/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/Deepak4228/Leetcode_question/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/Deepak4228/Leetcode_question/tree/master/1672-richest-customer-wealth) |
