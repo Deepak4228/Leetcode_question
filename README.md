@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Deepak4228/Leetcode_question/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepak4228/Leetcode_question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Deepak4228/Leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Deepak4228/Leetcode_question/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2418-sort-the-people](https://github.com/Deepak4228/Leetcode_question/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Deepak4228/Leetcode_question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Deepak4228/Leetcode_question/tree/master/3110-score-of-a-string) |
