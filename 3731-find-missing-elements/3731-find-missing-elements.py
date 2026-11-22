@@ -1,9 +1,5 @@
-class Solution(object):
-    def findMissingElements(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def findMissingElements(self, nums: List[int]) -> List[int]:
         m = min(nums)
         l = max(nums)
 
